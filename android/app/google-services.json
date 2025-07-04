@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770532769502",
+    "project_id": "aval-flutter",
+    "storage_bucket": "aval-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770532769502:android:a416f9c1510a86e8a50c4f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_aval"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdTL9Bf-esZqnytbMzB3fiBwSMNXcjclk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
